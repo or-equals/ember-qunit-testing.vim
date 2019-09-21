@@ -5,8 +5,11 @@ Quickly run your Ember tests in a browser.
 ![Screencast](https://raw.githubusercontent.com/hjdivad/hjdivad.github.io/master/screencasts/ember-cli-vim.gif)
 
 It is slow and tedious to go from a test in your editor to running that
-test in the browser.  This plugin speeds up the testing process significantly.  When it's
-set up you'll be able to run an individual test by:
+test in the browser.  This plugin speeds up the testing process significantly.  
+
+## Usage
+
+When you're set up you'll be able to run an individual test by:
 
 1. Put your cursor inside a test body
 2. Hit `<leader>M`.
