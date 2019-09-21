@@ -9,7 +9,7 @@ test in the browser.  This plugin speeds up the testing process significantly.
 
 ## Usage
 
-When you're set up you'll be able to run an individual test by:
+When you're set up, you'll be able to run an individual test by:
 
 1. Put your cursor inside a test body
 2. Hit `<leader>M`.
