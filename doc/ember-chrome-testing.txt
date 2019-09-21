@@ -3,8 +3,6 @@
 Author:  Joshua Plicque <http://github.com/plicjo>
 License: Same terms as Vim itself (see |license|)
 
-
-
 INTRODUCTION                                    *ember-qunit-testing*
 
 Quickly run your Ember tests in a browser.
@@ -24,11 +22,9 @@ pretty quick process.
 
 You can run tests for an entire module with `<leader>m`.
 
-
 ENTIRE MODULE                                       *ember-qunit-testing-module*
 
 The default mapping for focused test output is <leader>m.
-
 
 FOCUSED                                           *ember-qunit-testing-focused*
 
