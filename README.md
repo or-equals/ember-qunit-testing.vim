@@ -9,7 +9,7 @@ test in the browser.  This plugin speeds up the testing process significantly.  
 set up you'll be able to run an individual test by:
 
 1. Put your cursor inside a test body
-2. Hit `Leader M`. My vim leader is `\`, so I type `\M`.
+2. Hit `<leader>M`.
 3. Switch to Chrome
 4. Type `Command + l` to quickly get to the address bar.
 4. Paste your clipboard and hit enter.
@@ -17,7 +17,7 @@ set up you'll be able to run an individual test by:
 If you switch apps quickly (via ⌘ - tab or alfred or something), this can be a
 pretty quick process.
 
-You can run tests for an entire module with `Leader m`. My vim leader is `\`, so I type `\m`.
+You can run tests for an entire module with `<leader>m`.
 
 ![Screencast](https://raw.githubusercontent.com/hjdivad/hjdivad.github.io/master/screencasts/ember-cli-vim.gif)
 
