@@ -21,7 +21,7 @@ You can run tests for an entire module with `<leader>m`.
 
 ## Installation
 
-1. Create /usr/local/bin/qunit-test-hash with content from the below `qunit-test-hash` script.
+1. Create `/usr/local/bin/qunit-test-hash` with content from the below `qunit-test-hash` script.
 2. Run `chmod +x /usr/local/bin/qunit-test-hash`.
 3. Add `Plug 'plicjo/ember-qunit-testing.vim'` to ~/.vimrc.
 4. Run `:PlugInstall`.
