@@ -1,6 +1,6 @@
 # Ember-QUnit Testing With Vim
 
-Quickly run your tests in Chrome
+Quickly run your Ember tests in a browser
 
 Check out what this puppy does in a screencast [gist](https://gist.github.com/hjdivad/ea726b2caac4a8385788)
 
