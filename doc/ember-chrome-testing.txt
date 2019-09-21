@@ -1,1 +1,35 @@
-# TBD
+*ember-qunit-testing.txt*  Quickly run your Ember tests in a browser.
+
+Author:  Joshua Plicque <http://github.com/plicjo>
+License: Same terms as Vim itself (see |license|)
+
+
+
+INTRODUCTION                                    *ember-qunit-testing*
+
+Quickly run your Ember tests in a browser.
+
+It is slow and tedious to go from a test in your editor to running that
+test in the browser.  This plugin speeds up the testing process significantly.  When it's
+set up you'll be able to run an individual test by:
+
+1. Put your cursor inside a test body
+2. Hit `<leader>M`.
+3. Switch to Chrome
+4. Type `Command + l` to quickly get to the address bar.
+4. Paste your clipboard and hit enter.
+
+If you switch apps quickly (via ⌘ - tab or alfred or something), this can be a
+pretty quick process.
+
+You can run tests for an entire module with `<leader>m`.
+
+
+ENTIRE MODULE                                       *ember-qunit-testing-module*
+
+The default mapping for focused test output is <leader>m.
+
+
+FOCUSED                                           *ember-qunit-testing-focused*
+
+The default mapping for focused test output is <leader>M.
